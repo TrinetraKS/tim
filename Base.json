@@ -1,0 +1,14 @@
+{
+    "Member": {
+        "Name": "Amit",
+        "Address": "Address Description",
+        "Member": "Member"
+        "Member not found.": "Patient not found."
+    },
+    "Demographics": {
+        "Name": "Demographics",
+        "Address": "Demographics Address",
+        "Member": "Demographics Member",
+        "Member not found.": "Patient not found."
+    }
+}

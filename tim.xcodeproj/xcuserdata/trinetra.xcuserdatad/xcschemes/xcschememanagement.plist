@@ -4,6 +4,21 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>tim copy 2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>tim copy 4.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>tim copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 		<key>tim.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -18,6 +33,21 @@
 			<true/>
 		</dict>
 		<key>B5581CA01A2EB5A2007237E9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5B043151A307F0C00C793ED</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5B043321A3086FA00C793ED</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5B0434B1A30876400C793ED</key>
 		<dict>
 			<key>primary</key>
 			<true/>

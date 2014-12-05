@@ -1,0 +1,14 @@
+{
+    "Member": {
+        "Name": "St. Json",
+        "Address": "St. Json  Address Description",
+        "Member": "Patient"
+    },
+    "Demographics": {
+        "Name": "Name Demographics",
+        "Address": "Demographics Address",
+        "Member": "Demographics Member",
+        "Member not found.": "Patient not found."
+    }
+
+}
